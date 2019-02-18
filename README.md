@@ -1,2 +1,2 @@
-# vue-vuex-demo
-vuex demo
+mapActions 管理所有事件
+mapGetters 获取数据
